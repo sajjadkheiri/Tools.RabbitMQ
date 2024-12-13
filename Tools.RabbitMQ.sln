@@ -10,37 +10,37 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ.Start", "RabbitMQ.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RabbitMQ.LoadBalancing", "RabbitMQ.LoadBalancing", "{D9F8BADF-7DFE-4809-B9E4-192DB91EA5D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Start.Sender", "RabbitMQ.Start.Sender\RabbitMQ.Start.Sender.csproj", "{B867EDD5-58F5-4093-83E3-AA7FE3104A01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Start.Sender", "RabbitMQ.Start\RabbitMQ.Start.Sender\RabbitMQ.Start.Sender\RabbitMQ.Start.Sender.csproj", "{B867EDD5-58F5-4093-83E3-AA7FE3104A01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Start.Receiver", "RabbitMQ.Start.Receiver\RabbitMQ.Start.Receiver.csproj", "{F6C3095E-9DA6-47F8-8202-7372852A87A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Start.Receiver", "RabbitMQ.Start\RabbitMQ.Start.Receiver\RabbitMQ.Start.Receiver.csproj", "{F6C3095E-9DA6-47F8-8202-7372852A87A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.Sender", "RabbitMQ.Exchange.Topic.Sender\RabbitMQ.Exchange.Topic.Sender.csproj", "{31CF7B7D-0A64-4FFD-8D59-7672A4165E8A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.Sender", "RabbitMQ.Exchange.Topic\RabbitMQ.Exchange.Topic.Sender\RabbitMQ.Exchange.Topic.Sender.csproj", "{31CF7B7D-0A64-4FFD-8D59-7672A4165E8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.SMS", "RabbitMQ.Exchange.Topic.SMS\RabbitMQ.Exchange.Topic.SMS.csproj", "{414C68D9-FC04-4787-9A84-906533C5C6F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.SMS", "RabbitMQ.Exchange.Topic\RabbitMQ.Exchange.Topic.SMS\RabbitMQ.Exchange.Topic.SMS.csproj", "{414C68D9-FC04-4787-9A84-906533C5C6F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.Email", "RabbitMQ.Exchange.Topic.Email\RabbitMQ.Exchange.Topic.Email.csproj", "{1C7FB76D-9B7F-439A-A4C3-BE2C6DA1D3AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.Email", "RabbitMQ.Exchange.Topic\RabbitMQ.Exchange.Topic.Email\RabbitMQ.Exchange.Topic.Email.csproj", "{1C7FB76D-9B7F-439A-A4C3-BE2C6DA1D3AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.Logger", "RabbitMQ.Exchange.Topic.Logger\RabbitMQ.Exchange.Topic.Logger.csproj", "{DEA11AE5-1910-4C53-9E6B-DFE318BDFF15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Topic.Logger", "RabbitMQ.Exchange.Topic\RabbitMQ.Exchange.Topic.Logger\RabbitMQ.Exchange.Topic.Logger.csproj", "{DEA11AE5-1910-4C53-9E6B-DFE318BDFF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.Sender", "RabbitMQ.Exchange.Direct.Sender\RabbitMQ.Exchange.Direct.Sender.csproj", "{4EA77844-8581-4530-BF8D-EA27043DA522}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.Sender", "RabbitMQ.Exchange.Direct\RabbitMQ.Exchange.Direct.Sender\RabbitMQ.Exchange.Direct.Sender.csproj", "{4EA77844-8581-4530-BF8D-EA27043DA522}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.SMS", "RabbitMQ.Exchange.Direct.SMS\RabbitMQ.Exchange.Direct.SMS.csproj", "{7F135FB9-F6A8-4571-8EE4-3DBF882ECC55}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.SMS", "RabbitMQ.Exchange.Direct\RabbitMQ.Exchange.Direct.SMS\RabbitMQ.Exchange.Direct.SMS.csproj", "{7F135FB9-F6A8-4571-8EE4-3DBF882ECC55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.Email", "RabbitMQ.Exchange.Direct.Email\RabbitMQ.Exchange.Direct.Email.csproj", "{CF634612-5FA2-413C-AE57-450A28E088A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.Email", "RabbitMQ.Exchange.Direct\RabbitMQ.Exchange.Direct.Email\RabbitMQ.Exchange.Direct.Email.csproj", "{CF634612-5FA2-413C-AE57-450A28E088A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.Logger", "RabbitMQ.Exchange.Direct.Logger\RabbitMQ.Exchange.Direct.Logger.csproj", "{60B03BC6-1AE6-46DC-8032-BC62B8BC32CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Direct.Logger", "RabbitMQ.Exchange.Direct\RabbitMQ.Exchange.Direct.Logger\RabbitMQ.Exchange.Direct.Logger.csproj", "{60B03BC6-1AE6-46DC-8032-BC62B8BC32CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.Sender", "RabbitMQ.Exchange.Fanout.Sender\RabbitMQ.Exchange.Fanout.Sender.csproj", "{5FFBA86E-240F-4C4B-90B6-8EF0455358C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.Sender", "RabbitMQ.Exchange.Fanout\RabbitMQ.Exchange.Fanout.Sender\RabbitMQ.Exchange.Fanout.Sender.csproj", "{5FFBA86E-240F-4C4B-90B6-8EF0455358C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.SMS", "RabbitMQ.Exchange.Fanout.SMS\RabbitMQ.Exchange.Fanout.SMS.csproj", "{058D60C0-3EB4-4999-82EE-648952A06F43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.SMS", "RabbitMQ.Exchange.Fanout\RabbitMQ.Exchange.Fanout.SMS\RabbitMQ.Exchange.Fanout.SMS.csproj", "{058D60C0-3EB4-4999-82EE-648952A06F43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.Email", "RabbitMQ.Exchange.Fanout.Email\RabbitMQ.Exchange.Fanout.Email.csproj", "{2D041CFC-B9FB-4603-9E04-60345A5F1F62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.Email", "RabbitMQ.Exchange.Fanout\RabbitMQ.Exchange.Fanout.Email\RabbitMQ.Exchange.Fanout.Email.csproj", "{2D041CFC-B9FB-4603-9E04-60345A5F1F62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.Logger", "RabbitMQ.Exchange.Fanout.Logger\RabbitMQ.Exchange.Fanout.Logger.csproj", "{9CE29981-FD84-473F-8931-3637005EE411}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Exchange.Fanout.Logger", "RabbitMQ.Exchange.Fanout\RabbitMQ.Exchange.Fanout.Logger\RabbitMQ.Exchange.Fanout.Logger.csproj", "{9CE29981-FD84-473F-8931-3637005EE411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.LoadBalancing.Sender", "RabbitMQ.LoadBalancing.Sender\RabbitMQ.LoadBalancing.Sender.csproj", "{87AC5750-C4B7-4C9D-805B-E7D9531329D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.LoadBalancing.Sender", "RabbitMQ.LoadBalancing\RabbitMQ.LoadBalancing.Sender\RabbitMQ.LoadBalancing.Sender.csproj", "{87AC5750-C4B7-4C9D-805B-E7D9531329D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.LoadBalancing.Receiver", "RabbitMQ.LoadBalancing.Receiver\RabbitMQ.LoadBalancing.Receiver.csproj", "{4FBB74F0-2421-43FD-B380-1F3F56BED10F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.LoadBalancing.Receiver", "RabbitMQ.LoadBalancing\RabbitMQ.LoadBalancing.Receiver\RabbitMQ.LoadBalancing.Receiver.csproj", "{4FBB74F0-2421-43FD-B380-1F3F56BED10F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
