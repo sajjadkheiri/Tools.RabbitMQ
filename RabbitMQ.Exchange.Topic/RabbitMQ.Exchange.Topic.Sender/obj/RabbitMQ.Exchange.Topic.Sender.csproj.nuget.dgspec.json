@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj": {}
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj": {}
   },
   "projects": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj": {
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj",
+        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj",
         "projectName": "RabbitMQ.Exchange.Topic.Sender",
-        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj",
+        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.Sender/RabbitMQ.Exchange.Topic.Sender.csproj",
         "packagesPath": "/Users/sajjad/.nuget/packages/",
-        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.Sender/obj/",
+        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.Sender/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sajjad/.nuget/NuGet/NuGet.Config"
         ],
@@ -38,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {

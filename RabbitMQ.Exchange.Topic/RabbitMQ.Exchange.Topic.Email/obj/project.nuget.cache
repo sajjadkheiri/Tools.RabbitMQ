@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QMAL+kUM7LA=",
+  "dgSpecHash": "R95ZF/W1zLE=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.Email/RabbitMQ.Exchange.Topic.Email.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.Email/RabbitMQ.Exchange.Topic.Email.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

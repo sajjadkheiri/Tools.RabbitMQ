@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IPdbu7jtA1o=",
+  "dgSpecHash": "mcO9QV/4/NU=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start.Sender/RabbitMQ.Start.Sender.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start/RabbitMQ.Start.Sender/RabbitMQ.Start.Sender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

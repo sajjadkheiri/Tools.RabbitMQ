@@ -13,13 +13,12 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Sender/RabbitMQ.LoadBalancing.Sender.csproj",
+      "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Sender/RabbitMQ.LoadBalancing.Sender.csproj",
       "projectName": "RabbitMQ.LoadBalancing.Sender",
-      "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Sender/RabbitMQ.LoadBalancing.Sender.csproj",
+      "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Sender/RabbitMQ.LoadBalancing.Sender.csproj",
       "packagesPath": "/Users/sajjad/.nuget/packages/",
-      "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Sender/obj/",
+      "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Sender/obj/",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/sajjad/.nuget/NuGet/NuGet.Config"
       ],
@@ -44,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PPASf4MyHPo=",
+  "dgSpecHash": "UcJwlQ+nywM=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start.Receiver/RabbitMQ.Start.Receiver.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start/RabbitMQ.Start.Receiver/RabbitMQ.Start.Receiver.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

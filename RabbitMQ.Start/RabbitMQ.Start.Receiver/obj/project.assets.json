@@ -13,13 +13,12 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start.Receiver/RabbitMQ.Start.Receiver.csproj",
+      "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start/RabbitMQ.Start.Receiver/RabbitMQ.Start.Receiver.csproj",
       "projectName": "RabbitMQ.Start.Receiver",
-      "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start.Receiver/RabbitMQ.Start.Receiver.csproj",
+      "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start/RabbitMQ.Start.Receiver/RabbitMQ.Start.Receiver.csproj",
       "packagesPath": "/Users/sajjad/.nuget/packages/",
-      "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start.Receiver/obj/",
+      "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Start/RabbitMQ.Start.Receiver/obj/",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/sajjad/.nuget/NuGet/NuGet.Config"
       ],
@@ -44,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "all"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {

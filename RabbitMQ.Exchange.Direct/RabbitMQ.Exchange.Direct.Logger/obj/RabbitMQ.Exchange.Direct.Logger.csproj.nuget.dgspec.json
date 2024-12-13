@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj": {}
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj": {}
   },
   "projects": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj": {
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj",
+        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj",
         "projectName": "RabbitMQ.Exchange.Direct.Logger",
-        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj",
+        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct/RabbitMQ.Exchange.Direct.Logger/RabbitMQ.Exchange.Direct.Logger.csproj",
         "packagesPath": "/Users/sajjad/.nuget/packages/",
-        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct.Logger/obj/",
+        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct/RabbitMQ.Exchange.Direct.Logger/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sajjad/.nuget/NuGet/NuGet.Config"
         ],
@@ -38,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {

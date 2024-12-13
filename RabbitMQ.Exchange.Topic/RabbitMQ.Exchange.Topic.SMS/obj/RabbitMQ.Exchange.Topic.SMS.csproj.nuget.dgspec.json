@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj": {}
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj": {}
   },
   "projects": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj": {
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj",
+        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj",
         "projectName": "RabbitMQ.Exchange.Topic.SMS",
-        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj",
+        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.SMS/RabbitMQ.Exchange.Topic.SMS.csproj",
         "packagesPath": "/Users/sajjad/.nuget/packages/",
-        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.SMS/obj/",
+        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.SMS/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sajjad/.nuget/NuGet/NuGet.Config"
         ],
@@ -38,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KITnD00J+ZQ=",
+  "dgSpecHash": "XVS+xBIKF3Q=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct.Sender/RabbitMQ.Exchange.Direct.Sender.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct/RabbitMQ.Exchange.Direct.Sender/RabbitMQ.Exchange.Direct.Sender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMEX6LyUkGk=",
+  "dgSpecHash": "wuY0FL9TgJY=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Sender/RabbitMQ.LoadBalancing.Sender.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Sender/RabbitMQ.LoadBalancing.Sender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

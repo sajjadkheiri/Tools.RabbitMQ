@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eM8nsKH3WoQ=",
+  "dgSpecHash": "5w9+IQQhCsQ=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Fanout.Sender/RabbitMQ.Exchange.Fanout.Sender.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Fanout/RabbitMQ.Exchange.Fanout.Sender/RabbitMQ.Exchange.Fanout.Sender.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

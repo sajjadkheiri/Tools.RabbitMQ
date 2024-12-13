@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLEPRbsQo4k=",
+  "dgSpecHash": "yzl45WSjUTQ=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic.Logger/RabbitMQ.Exchange.Topic.Logger.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Topic/RabbitMQ.Exchange.Topic.Logger/RabbitMQ.Exchange.Topic.Logger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

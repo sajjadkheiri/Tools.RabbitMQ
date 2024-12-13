@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zI0DgR3p/nU=",
+  "dgSpecHash": "neWWoxUU2EY=",
   "success": true,
-  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct.Email/RabbitMQ.Exchange.Direct.Email.csproj",
+  "projectFilePath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.Exchange.Direct/RabbitMQ.Exchange.Direct.Email/RabbitMQ.Exchange.Direct.Email.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

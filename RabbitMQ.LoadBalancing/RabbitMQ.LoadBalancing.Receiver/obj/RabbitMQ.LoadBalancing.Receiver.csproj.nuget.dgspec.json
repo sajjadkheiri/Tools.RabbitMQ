@@ -1,19 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj": {}
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj": {}
   },
   "projects": {
-    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj": {
+    "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj",
+        "projectUniqueName": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj",
         "projectName": "RabbitMQ.LoadBalancing.Receiver",
-        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj",
+        "projectPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Receiver/RabbitMQ.LoadBalancing.Receiver.csproj",
         "packagesPath": "/Users/sajjad/.nuget/packages/",
-        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing.Receiver/obj/",
+        "outputPath": "/Users/sajjad/Documents/Project/Repository/Tools.RabbitMQ/RabbitMQ.LoadBalancing/RabbitMQ.LoadBalancing.Receiver/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sajjad/.nuget/NuGet/NuGet.Config"
         ],
@@ -38,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "all"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
